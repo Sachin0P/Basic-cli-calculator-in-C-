@@ -13,7 +13,7 @@ This calculator supports the following simple operations:
 - Division (`/`)  
 - Modulus (remainder) (`%`)
 
-> This project is created because I am currently studying for university and want to practice basic programming concepts.
+> This project is created because I am currently studying for university and want to practice basic C++ concepts cause of my syllabus.
 
 ---
 
