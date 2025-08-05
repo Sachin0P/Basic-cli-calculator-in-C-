@@ -27,4 +27,16 @@ This calculator supports the following simple operations:
 
 ---
 
+---
+
+## Notes
+
+- This calculator is meant for **integer arithmetic only**.
+- Division by zero is handled with a simple error message.
+- No advanced input validation is done; please enter valid integers and operators.
+
+---
+
+Feel free to improve and extend this basic calculator as part of your learning journey!
+
 
