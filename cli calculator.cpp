@@ -26,7 +26,7 @@ switch(d) {
         break;
     case '/':
         if (b==0)
-            cout<<"can not divide by zero"
+            cout<<"can not divide by zero";
         cout<<a/b;
         break;
     case '%':
@@ -40,3 +40,4 @@ switch(d) {
 
 return 0;
 }
+
